@@ -118,7 +118,7 @@ def check_name(name):
     if len(name) > 10:
         raise NegativeValueException('Длина более 10 символов') 
     else:
-        print('Yспешная регистрация')
+        print('Успешная регистрация')
 
 
 if __name__ == '__main__': 
